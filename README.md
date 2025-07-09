@@ -26,4 +26,7 @@ Understood and applied basic Arduino functions: analogRead, analogWrite,digitalR
 Understand the importance of the IR remote
 Implemented and executed the home automation with IR remote
 
+**OUTPUT**:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6ac9c361-85d6-41ac-b022-6d67f3a8b827" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/17810597-37d7-4235-9ff5-273a79c2427d" />
+
 
